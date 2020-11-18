@@ -1,6 +1,6 @@
-# node-es6-simple-crm
+# node-es6-crm
 
-Simple CRM developed in node.js for evaluating advantages and disadvantages between using ES6 and Typescript for node 
+Simple CRM project developed in node.js for evaluating advantages and disadvantages between using ES6 and Typescript for node 
 projects.
 
 This project is made using only ES6 and currently is a simple Contacts CRUD express server connecting to a 
